@@ -2,7 +2,7 @@
 
 COMMENT =	listen to file modifications
 
-DISTNAME =	listen-3.0.1
+DISTNAME =	listen-2.10.1
 CATEGORIES =	devel
 
 HOMEPAGE=	http://github.com/nex3/rb-inotify
